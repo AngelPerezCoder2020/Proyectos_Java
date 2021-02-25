@@ -20,7 +20,7 @@ public class Funciones {
     }
     public void compapa(String a, String b, int x){
         if(x==1){
-            if(a==b){
+            if(a.trim().equals(b.trim())){
                 System.out.println("Las Palabras Ingresadas son Iguales !!");
                 Espera.nextLine();
             }
@@ -29,7 +29,7 @@ public class Funciones {
                 Espera.nextLine();
             }
         }else{
-            if(a.toUpperCase() == b.toUpperCase()){
+            if(a.toUpperCase().trim().equals(b.toUpperCase().trim())){
                 System.out.println("Las Palabras Ingresadas son Iguales !!");
                 Espera.nextLine();
             }
@@ -41,7 +41,7 @@ public class Funciones {
     }
     public void Tamaño(String a, String b, int x){
         if(x==1){
-            if(a==b){
+            if(a.equals(b)){
                 System.out.println("Los Strings Ingresadas son Iguales !!");
                 Espera.nextLine();
             }
@@ -50,7 +50,7 @@ public class Funciones {
                 Espera.nextLine();
             }
         }else {
-            if (a.trim() == b.trim()) {
+            if (a.trim().equals(b.trim())) {
                 System.out.println("Los Strings Ingresadas son Iguales !!");
                 Espera.nextLine();
             } else {

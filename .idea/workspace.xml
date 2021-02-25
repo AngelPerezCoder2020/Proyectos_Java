@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e615c16-5b40-4449-9dbf-dc3942130f45" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/OperadoresStrings/OperadoresStrings.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OperadoresStrings/src/Funciones.java" beforeDir="false" afterPath="$PROJECT_DIR$/OperadoresStrings/src/Funciones.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OperadoresStrings/Funciones.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +74,7 @@
       <option name="presentableId" value="Default" />
       <updated>1614282576917</updated>
       <workItem from="1614282578238" duration="779000" />
-      <workItem from="1614283376549" duration="1253000" />
+      <workItem from="1614283376549" duration="3364000" />
     </task>
     <servers />
   </component>
