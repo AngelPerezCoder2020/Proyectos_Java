@@ -54,7 +54,7 @@ public class Funciones {
                 System.out.println("Los Strings Ingresadas son del mismo tamaño !!");
                 Espera.nextLine();
             } else {
-                System.out.println("Los Strings ingresadas NO son del mismo tamaño !! DOS");
+                System.out.println("Los Strings ingresadas NO son del mismo tamaño !!");
                 Espera.nextLine();
             }
         }
