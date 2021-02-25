@@ -41,20 +41,20 @@ public class Funciones {
     }
     public void Tamaño(String a, String b, int x){
         if(x==1){
-            if(a.equals(b)){
-                System.out.println("Los Strings Ingresadas son Iguales !!");
+            if(a.length()==b.length()){
+                System.out.println("Los Strings Ingresadas son del mismo tamaño !!");
                 Espera.nextLine();
             }
             else{
-                System.out.println("Los Strings ingresadas NO son Iguales !!");
+                System.out.println("Los Strings ingresadas NO son del mismo tamaño!");
                 Espera.nextLine();
             }
         }else {
-            if (a.trim().equals(b.trim())) {
-                System.out.println("Los Strings Ingresadas son Iguales !!");
+            if (a.replaceAll(" ","").length() == b.replaceAll(" ","").length()) {
+                System.out.println("Los Strings Ingresadas son del mismo tamaño !!");
                 Espera.nextLine();
             } else {
-                System.out.println("Los Strings ingresadas NO son Iguales !!");
+                System.out.println("Los Strings ingresadas NO son del mismo tamaño !! DOS");
                 Espera.nextLine();
             }
         }
