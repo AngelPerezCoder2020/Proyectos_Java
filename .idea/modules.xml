@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Hola Mundo/Hola Mundo.iml" filepath="$PROJECT_DIR$/Hola Mundo/Hola Mundo.iml" />
       <module fileurl="file://$PROJECT_DIR$/OperacionesStrings.Perez/OperacionesStrings.Perez.iml" filepath="$PROJECT_DIR$/OperacionesStrings.Perez/OperacionesStrings.Perez.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OperadoresStrings/OperadoresStrings.iml" filepath="$PROJECT_DIR$/OperadoresStrings/OperadoresStrings.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Proyectos_Java.iml" filepath="$PROJECT_DIR$/.idea/Proyectos_Java.iml" />
     </modules>
   </component>
